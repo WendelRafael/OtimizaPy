@@ -8,6 +8,7 @@
   </h3>
   <p>
     - Limpa todos os arquivos temporários presentes na pasta TEMP
+    - Reinicia automaticamente os drivers gráficos do Windows
   </p>
 </div>
 
