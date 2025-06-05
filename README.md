@@ -8,7 +8,7 @@
   </h3>
   <p>
     - Limpa todos os arquivos temporários presentes na pasta TEMP
-    - Reinicia os Drivers gráficos
-  </p>
+    - Reinicia os drivers gráficos
+ </p>
 </div>
 
