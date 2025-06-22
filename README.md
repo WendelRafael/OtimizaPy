@@ -7,7 +7,7 @@
     Atualmente a aplicação, executa as seguintes funções:<br>
   </h3>
   <p>
-    - Limpa todos os arquivos temporários presentes na pasta TEMP
+    - Limpa todos os arquivos temporários presentes na pasta TEMP<br>
     - Reinicia os drivers gráficos
  </p>
 </div>
